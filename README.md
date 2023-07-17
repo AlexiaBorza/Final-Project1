@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Descriere proiect pentru certificare
 
 ### Acest cod este o implementare simplă a jocului „Patră, Foarfece, Hârtie” în care utilizatorul poate juca împotriva unui adversar. Să parcurgem codul pas cu pas:
@@ -38,3 +39,6 @@
 ### În general, acest cod permite utilizatorului să joace un joc de „Piatră, hârtie, foarfece” împotriva unui adversar și afișează alegerile făcute atât de utilizator, cât și de bot, precum și rezultatul jocului.
 
 
+=======
+## Test Readme
+>>>>>>> 6383faaa56de909723e54133158f592e3bd2fcda
